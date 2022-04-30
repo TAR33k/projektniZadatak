@@ -1,0 +1,63 @@
+C:\Users\DT User3\AppData\Local\Temporary Projects\Grupni projekat\bin\Debug\Grupni projekat.exe
+C:\Users\DT User3\AppData\Local\Temporary Projects\Grupni projekat\bin\Debug\Grupni projekat.pdb
+C:\Users\DT User3\AppData\Local\Temporary Projects\Grupni projekat\bin\Debug\MySql.Data.dll
+C:\Users\DT User3\AppData\Local\Temporary Projects\Grupni projekat\obj\x86\Debug\Grupni projekat.csprojResolveAssemblyReference.cache
+C:\Users\DT User3\AppData\Local\Temporary Projects\Grupni projekat\obj\x86\Debug\Grupni_projekat.Form1.resources
+C:\Users\DT User3\AppData\Local\Temporary Projects\Grupni projekat\obj\x86\Debug\Grupni_projekat.Form2.resources
+C:\Users\DT User3\AppData\Local\Temporary Projects\Grupni projekat\obj\x86\Debug\Grupni_projekat.Properties.Resources.resources
+C:\Users\DT User3\AppData\Local\Temporary Projects\Grupni projekat\obj\x86\Debug\Grupni projekat.csproj.GenerateResource.Cache
+C:\Users\DT User3\AppData\Local\Temporary Projects\Grupni projekat\obj\x86\Debug\Grupni projekat.exe
+C:\Users\DT User3\AppData\Local\Temporary Projects\Grupni projekat\obj\x86\Debug\Grupni projekat.pdb
+C:\Users\DT User3\OneDrive\Radna površina\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni projekat.exe
+C:\Users\DT User3\OneDrive\Radna površina\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni projekat.pdb
+C:\Users\DT User3\OneDrive\Radna površina\Grupni projekat\Grupni projekat\bin\Debug\Grupni projekat.exe
+C:\Users\DT User3\OneDrive\Radna površina\Grupni projekat\Grupni projekat\bin\Debug\Grupni projekat.pdb
+C:\Users\DT User3\OneDrive\Radna površina\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni projekat.csprojResolveAssemblyReference.cache
+C:\Users\DT User3\OneDrive\Radna površina\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni_projekat.Form1.resources
+C:\Users\DT User3\OneDrive\Radna površina\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni_projekat.Form2.resources
+C:\Users\DT User3\OneDrive\Radna površina\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni_projekat.Form3.resources
+C:\Users\DT User3\OneDrive\Radna površina\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni_projekat.Properties.Resources.resources
+C:\Users\DT User3\OneDrive\Radna površina\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni projekat.csproj.GenerateResource.Cache
+C:\Users\DT User3\OneDrive\Radna površina\projektni\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni projekat.exe
+C:\Users\DT User3\OneDrive\Radna površina\projektni\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni projekat.pdb
+C:\Users\DT User3\OneDrive\Radna površina\projektni\Grupni projekat\Grupni projekat\bin\Debug\Grupni projekat.exe
+C:\Users\DT User3\OneDrive\Radna površina\projektni\Grupni projekat\Grupni projekat\bin\Debug\Grupni projekat.pdb
+C:\Users\DT User3\OneDrive\Radna površina\projektni\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni projekat.csprojResolveAssemblyReference.cache
+C:\Users\DT User3\OneDrive\Radna površina\projektni\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni_projekat.Form1.resources
+C:\Users\DT User3\OneDrive\Radna površina\projektni\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni_projekat.Form2.resources
+C:\Users\DT User3\OneDrive\Radna površina\projektni\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni_projekat.Form3.resources
+C:\Users\DT User3\OneDrive\Radna površina\projektni\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni_projekat.Properties.Resources.resources
+C:\Users\DT User3\OneDrive\Radna površina\projektni\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni projekat.csproj.GenerateResource.Cache
+C:\Users\DT User3\OneDrive\Radna površina\projektni\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni_projekat.Form4.resources
+C:\Users\DT User3\OneDrive\Radna površina\projektni\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni_projekat.Form5.resources
+C:\Users\DT User3\OneDrive\Radna površina\projektni\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni_projekat.Form6.resources
+C:\Users\Nedim\Desktop\Grupni_projekat\Grupni projekat\Grupni projekat\bin\Debug\Grupni projekat.exe
+C:\Users\Nedim\Desktop\Grupni_projekat\Grupni projekat\Grupni projekat\bin\Debug\Grupni projekat.pdb
+C:\Users\Nedim\Desktop\Grupni_projekat\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni projekat.csproj.AssemblyReference.cache
+C:\Users\Nedim\Desktop\Grupni_projekat\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni_projekat.Form1.resources
+C:\Users\Nedim\Desktop\Grupni_projekat\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni_projekat.Form2.resources
+C:\Users\Nedim\Desktop\Grupni_projekat\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni_projekat.Form3.resources
+C:\Users\Nedim\Desktop\Grupni_projekat\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni_projekat.Form4.resources
+C:\Users\Nedim\Desktop\Grupni_projekat\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni_projekat.Form5.resources
+C:\Users\Nedim\Desktop\Grupni_projekat\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni_projekat.Form6.resources
+C:\Users\Nedim\Desktop\Grupni_projekat\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni_projekat.Properties.Resources.resources
+C:\Users\Nedim\Desktop\Grupni_projekat\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni projekat.csproj.GenerateResource.cache
+C:\Users\Nedim\Desktop\Grupni_projekat\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni projekat.csproj.CoreCompileInputs.cache
+C:\Users\Nedim\Desktop\Grupni_projekat\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni projekat.csproj.CopyComplete
+C:\Users\Nedim\Desktop\Grupni_projekat\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni projekat.exe
+C:\Users\Nedim\Desktop\Grupni_projekat\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni projekat.pdb
+C:\Users\DT User3\OneDrive\Radna površina\Grupni_projekat_uredjeno\Grupni_projekat_uredjeno\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni projekat.exe
+C:\Users\DT User3\OneDrive\Radna površina\Grupni_projekat_uredjeno\Grupni_projekat_uredjeno\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni projekat.pdb
+C:\Users\DT User3\OneDrive\Radna površina\projektni\Grupni_projekat_uredjeno\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni projekat.exe
+C:\Users\DT User3\OneDrive\Radna površina\projektni\Grupni_projekat_uredjeno\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni projekat.pdb
+C:\Users\DT User3\OneDrive\Radna površina\projektni\Grupni_projekat_uredjeno\Grupni projekat\Grupni projekat\bin\Debug\Grupni projekat.exe
+C:\Users\DT User3\OneDrive\Radna površina\projektni\Grupni_projekat_uredjeno\Grupni projekat\Grupni projekat\bin\Debug\Grupni projekat.pdb
+C:\Users\DT User3\OneDrive\Radna površina\projektni\Grupni_projekat_uredjeno\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni projekat.csprojResolveAssemblyReference.cache
+C:\Users\DT User3\OneDrive\Radna površina\projektni\Grupni_projekat_uredjeno\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni_projekat.Form1.resources
+C:\Users\DT User3\OneDrive\Radna površina\projektni\Grupni_projekat_uredjeno\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni_projekat.Form2.resources
+C:\Users\DT User3\OneDrive\Radna površina\projektni\Grupni_projekat_uredjeno\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni_projekat.Form3.resources
+C:\Users\DT User3\OneDrive\Radna površina\projektni\Grupni_projekat_uredjeno\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni_projekat.Form4.resources
+C:\Users\DT User3\OneDrive\Radna površina\projektni\Grupni_projekat_uredjeno\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni_projekat.Form5.resources
+C:\Users\DT User3\OneDrive\Radna površina\projektni\Grupni_projekat_uredjeno\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni_projekat.Form6.resources
+C:\Users\DT User3\OneDrive\Radna površina\projektni\Grupni_projekat_uredjeno\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni_projekat.Properties.Resources.resources
+C:\Users\DT User3\OneDrive\Radna površina\projektni\Grupni_projekat_uredjeno\Grupni projekat\Grupni projekat\obj\x86\Debug\Grupni projekat.csproj.GenerateResource.Cache
